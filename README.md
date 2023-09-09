@@ -7,7 +7,7 @@ make build-development
 make start-development
 ```
 
-Open http://localhost:3001
+Open http://localhost:3002
 
 ## Running Locally
 
